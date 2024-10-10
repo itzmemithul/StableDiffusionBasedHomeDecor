@@ -1,0 +1,33 @@
+torch
+torchvision
+transformers
+python-dotenv 
+datasets
+pytest-shutil
+accelerate 
+transformers 
+wandb
+gradio
+transformers
+torch
+diffusers
+gunicorn
+accelerate
+peft
+openai
+safetensors
+invisible_watermark
+torchmetrics
+prometheus-client
+uvicorn
+
+
+#image preprocessing
+Pillow
+numpy
+
+#progress bar
+alive_progress
+
+#llm
+ollama
